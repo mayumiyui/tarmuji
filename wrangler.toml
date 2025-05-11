@@ -1,4 +1,4 @@
-name = "remxyumi"
+name = "tarmuji"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
@@ -6,16 +6,18 @@ compatibility_flags = ["nodejs_compat_v2"]
 minify = true
 workers_dev = true
 routes = [
-  { pattern = "remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "unnes.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "blog.unnes.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "umn.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "www.umn.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "ejurnal.poliban.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "telkomuniversity.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "untar.ac.id.remxyumi.yumicftigarun.web.id", custom_domain = true },
-  { pattern = "ganecadigital.com.remxyumi.yumicftigarun.web.id", custom_domain = true },
-   { pattern = "graph.instagram.com.remxyumi.yumicftigarun.web.id", custom_domain = true },
+  { pattern = "fullspeed.biz.id", custom_domain = true },
+  { pattern = "unnes.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "blog.unnes.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "umn.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "www.umn.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "ejurnal.poliban.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "telkomuniversity.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "untar.ac.id.fullspeed.biz.id", custom_domain = true },
+  { pattern = "ganecadigital.com.fullspeed.biz.id", custom_domain = true },
+  { pattern = "graph.instagram.com.fullspeed.biz.id", custom_domain = true },
+  { pattern = "ava.game.naver.com.fullspeed.biz.id", custom_domain = true },
+  { pattern = "account.pmang.game.naver.com.fullspeed.biz.id", custom_domain = true },
  
 ]
 
